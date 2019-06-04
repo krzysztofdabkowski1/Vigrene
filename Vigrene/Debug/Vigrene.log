@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+c:\users\krzysztof\source\repos\vigrene\źródło.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\krzysztof\source\repos\vigrene\źródło.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\krzysztof\source\repos\vigrene\źródło.cpp(118): warning C4018: '<': signed/unsigned mismatch
+  Vigrene.vcxproj -> C:\Users\Krzysztof\source\repos\Vigrene\Debug\Vigrene.exe
